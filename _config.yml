@@ -1,14 +1,7 @@
 # Site
 title:              Ali Noorian
 bio:                'FPGA:IOT@Arm.EmbeddedSystems'
-description:        "Hi, my name's Ali and I'm a A registered member of IEEE,
-A Embedded System Designer with +5 years of experience and
-nowadays taking experienceabout <mark>Deep learning</mark> and <mark>Data
-science</mark>. Capable of working independently with minimum
-supervision and committed to providing high quality service to
-every project, with focus on health, safety and environmental
-issues. Professional, capable, and motivated individual who
-consistently performs in challenging environment"
+description:        "Hi, my name's Ali and I'm a A registered member of IEEE, A Embedded System Designer with +5 years of experience and nowadays taking experienceabout <mark>Deep learning</mark> and <mark>Data science</mark>. Capable of working independently with minimum supervision and committed to providing high quality service to every project, with focus on health, safety and environmental issues. Professional, capable, and motivated individual who consistently performs in challenging environment"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/av.png'
