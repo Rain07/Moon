@@ -15,7 +15,7 @@ logo:               'assets/img/av.png'
 background:         'assets/img/img.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                Rain07.github.io
+url:                
 
 # Jekyll
 permalink:          /:title/
